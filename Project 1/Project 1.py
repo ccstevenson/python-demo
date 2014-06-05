@@ -11,8 +11,10 @@ def take_user_input(num):
 
     return input_value
 
+# This is where I get user input.
 i1 = take_user_input('first')
 i2 = take_user_input('second')
+i3 = take_user_input('third')
 
 ints_sum = i1 + i2
 ints_minus = i1 - i2
